@@ -2,8 +2,11 @@
 
 ## 1. Project Set-Up
 - ~~Create the Basic Django Framework for the Project~~
-- Decide the exact content to aggregate (Anime, sports, news, etc.)
-- Decide the sources to aggregate from
+- ~~Decide the exact content to aggregate (Anime, sports, news, etc.)~~
+    - Will aggregate anime
+- ~~Decide the sources to aggregate from~~
+    - AniAPI for show information
+    - AnimeNewsNetwork for current events
 
 ## 2. Build Object Model
 - Create a Class for your Model
